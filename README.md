@@ -1,6 +1,7 @@
 # ruImageCaptioning
 
-BLEU:     	10.3
+Trained and validated on ruCOCO
+BLEU:     	37.3
 
 chrF:     	32.4
 
