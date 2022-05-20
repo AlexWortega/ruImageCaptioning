@@ -39,3 +39,9 @@ THIS WORK IS BASED ON https://github.com/rmokady/CLIP_prefix_caption (english ve
   journal={arXiv preprint arXiv:2111.09734},
   year={2021}
 }
+
+
+
+## Acknowledgments
+This repository is heavily based on [CLIP](https://github.com/openai/CLIP) and [Hugging-faces](https://github.com/huggingface/transformers) repositories.
+For training we used the data of [COCO dataset](https://cocodataset.org/#home)  and [Conceptual Captions](https://ai.google.com/research/ConceptualCaptions/) translated by ALEX WORTEGA [ruCOCO](https://github.com/AlexWortega/ru_COCO)  
