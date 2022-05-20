@@ -6,6 +6,8 @@
 Inference Notebook: <a href="https://colab.research.google.com/drive/1tsVMWUE6_AKXiHyinCSOSRPGhbjVEyRM?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=20></a>  
 
 
+Русская версия CLIP prefix caption, обученная на ruGPTSMALL + CLIP(OPENAI), можно использовать для VQA, image captioning и прочее. Модель работает <1c + ее можно эффективно квантануть/перенести в ONNX. 
+
 Trained and validated on ruCOCO
 BLEU:     	37.3
 
