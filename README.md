@@ -5,6 +5,7 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>  
 Inference Notebook: <a href="https://colab.research.google.com/drive/1tsVMWUE6_AKXiHyinCSOSRPGhbjVEyRM?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=20></a>  
 
+(Hugginface🤗)[https://huggingface.co/AlexWortega/ruImagecaptioning/tree/main]
 
 Русская версия CLIP prefix caption, обученная на ruGPTSMALL + CLIP(OPENAI), можно использовать для VQA, image captioning и прочее. Модель работает <1c + ее можно эффективно квантануть/перенести в ONNX. Обучалось в течении 3х дней на 2*1080ti
 
